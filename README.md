@@ -51,5 +51,9 @@ Unfair (<-10 AND >10)
 Highly Discriminative (<-20 AND >20)
 
 
+**Completion Certificate link**: [Certificate](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_nrhxxNKfTeGAYf7cF_1753684028737_completion_certificate.pdf)
+
+
+
 
  
